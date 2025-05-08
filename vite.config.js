@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-markdown']  // Externalize react-markdown
+      external: []  // Externalize react-markdown
     }
   }
 })
