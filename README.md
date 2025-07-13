@@ -12,7 +12,7 @@ SQLGPT is a full-stack AI-powered web app designed to simplify learning and work
 - 💬 **Code Generation**: Automatically generate SQL code snippets based on your input.
 - 🎨 **Theme Toggle**: Switch between light and dark mode for comfort.
 - ⚡ **Fast & Responsive UI**: Built with Vite and Tailwind CSS.
-- 🌐 **Deployed on Vercel**: Easily accessible online.
+- 🌐 **Deployed on Vercel**: Easily accessible online, can be used by no of people, scaled system.
 
 ---
 
