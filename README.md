@@ -72,5 +72,7 @@ Configuration
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
+Its an normal application rather than chatgpt or any other GPTs like here only user can get SQL queries and concepts and answers responses
+
 🙋‍♂️ Why SQLGPT?
 Because every developer, analyst, or data enthusiast needs a reliable assistant while working with databases. SQLGPT makes it easier, faster, and smarter.
